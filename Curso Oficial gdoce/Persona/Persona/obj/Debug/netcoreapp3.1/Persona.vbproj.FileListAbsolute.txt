@@ -1,0 +1,13 @@
+C:\Users\JJBER\source\repos\Persona\Persona\bin\Debug\netcoreapp3.1\Persona.exe
+C:\Users\JJBER\source\repos\Persona\Persona\bin\Debug\netcoreapp3.1\Persona.deps.json
+C:\Users\JJBER\source\repos\Persona\Persona\bin\Debug\netcoreapp3.1\Persona.runtimeconfig.json
+C:\Users\JJBER\source\repos\Persona\Persona\bin\Debug\netcoreapp3.1\Persona.runtimeconfig.dev.json
+C:\Users\JJBER\source\repos\Persona\Persona\bin\Debug\netcoreapp3.1\Persona.dll
+C:\Users\JJBER\source\repos\Persona\Persona\bin\Debug\netcoreapp3.1\Persona.pdb
+C:\Users\JJBER\source\repos\Persona\Persona\obj\Debug\netcoreapp3.1\Persona.vbprojAssemblyReference.cache
+C:\Users\JJBER\source\repos\Persona\Persona\obj\Debug\netcoreapp3.1\Persona.vbproj.CoreCompileInputs.cache
+C:\Users\JJBER\source\repos\Persona\Persona\obj\Debug\netcoreapp3.1\Persona.AssemblyInfoInputs.cache
+C:\Users\JJBER\source\repos\Persona\Persona\obj\Debug\netcoreapp3.1\Persona.AssemblyInfo.vb
+C:\Users\JJBER\source\repos\Persona\Persona\obj\Debug\netcoreapp3.1\Persona.dll
+C:\Users\JJBER\source\repos\Persona\Persona\obj\Debug\netcoreapp3.1\Persona.pdb
+C:\Users\JJBER\source\repos\Persona\Persona\obj\Debug\netcoreapp3.1\Persona.genruntimeconfig.cache

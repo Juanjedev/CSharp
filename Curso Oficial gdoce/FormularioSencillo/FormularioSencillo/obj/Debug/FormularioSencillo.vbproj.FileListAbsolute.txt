@@ -1,0 +1,12 @@
+C:\Users\JJBER\source\repos\FormularioSencillo\FormularioSencillo\bin\Debug\FormularioSencillo.exe.config
+C:\Users\JJBER\source\repos\FormularioSencillo\FormularioSencillo\bin\Debug\FormularioSencillo.exe
+C:\Users\JJBER\source\repos\FormularioSencillo\FormularioSencillo\bin\Debug\FormularioSencillo.pdb
+C:\Users\JJBER\source\repos\FormularioSencillo\FormularioSencillo\bin\Debug\FormularioSencillo.xml
+C:\Users\JJBER\source\repos\FormularioSencillo\FormularioSencillo\obj\Debug\FormularioSencillo.vbprojAssemblyReference.cache
+C:\Users\JJBER\source\repos\FormularioSencillo\FormularioSencillo\obj\Debug\FormularioSencillo.Form1.resources
+C:\Users\JJBER\source\repos\FormularioSencillo\FormularioSencillo\obj\Debug\FormularioSencillo.Resources.resources
+C:\Users\JJBER\source\repos\FormularioSencillo\FormularioSencillo\obj\Debug\FormularioSencillo.vbproj.GenerateResource.cache
+C:\Users\JJBER\source\repos\FormularioSencillo\FormularioSencillo\obj\Debug\FormularioSencillo.vbproj.CoreCompileInputs.cache
+C:\Users\JJBER\source\repos\FormularioSencillo\FormularioSencillo\obj\Debug\FormularioSencillo.exe
+C:\Users\JJBER\source\repos\FormularioSencillo\FormularioSencillo\obj\Debug\FormularioSencillo.xml
+C:\Users\JJBER\source\repos\FormularioSencillo\FormularioSencillo\obj\Debug\FormularioSencillo.pdb

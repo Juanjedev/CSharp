@@ -1,0 +1,50 @@
+Dado el siguiente documento XML:
+
+Dado el siguiente documento XML:
+
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<agenda>
+
+ <persona nacionalidad=española>
+
+<nombre>Ana García</nombre>
+
+ <tlf>666777888<tlf>
+
+<persona nacionalidad=española>
+
+ <nombre>Angel Gonzalez</nombre>
+
+ <tlf>666888999</tlf>
+
+ </persona>
+
+ </agenda>
+
+
+
+El documento anterior contiene errores. Debéis enviármelo corregido.
+
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<agenda>
+
+	<persona>
+
+		<nacionalidad>española</nacionalidad>
+
+		<nombre>Ana García</nombre>
+
+ 		<tlf>666777888</tlf>
+	</persona>
+
+	<persona>
+
+		<nacionalidad>española</nacionalidad>
+
+ 		<nombre>Angel Gonzalez</nombre>
+
+ 		<tlf>666888999</tlf>
+	</persona>
+ </agenda>

@@ -1,0 +1,13 @@
+C:\Users\JJBER\source\repos\EjemplosVarios\EjemplosVarios\bin\Debug\netcoreapp3.1\EjemplosVarios.exe
+C:\Users\JJBER\source\repos\EjemplosVarios\EjemplosVarios\bin\Debug\netcoreapp3.1\EjemplosVarios.deps.json
+C:\Users\JJBER\source\repos\EjemplosVarios\EjemplosVarios\bin\Debug\netcoreapp3.1\EjemplosVarios.runtimeconfig.json
+C:\Users\JJBER\source\repos\EjemplosVarios\EjemplosVarios\bin\Debug\netcoreapp3.1\EjemplosVarios.runtimeconfig.dev.json
+C:\Users\JJBER\source\repos\EjemplosVarios\EjemplosVarios\bin\Debug\netcoreapp3.1\EjemplosVarios.dll
+C:\Users\JJBER\source\repos\EjemplosVarios\EjemplosVarios\bin\Debug\netcoreapp3.1\EjemplosVarios.pdb
+C:\Users\JJBER\source\repos\EjemplosVarios\EjemplosVarios\obj\Debug\netcoreapp3.1\EjemplosVarios.vbproj.CoreCompileInputs.cache
+C:\Users\JJBER\source\repos\EjemplosVarios\EjemplosVarios\obj\Debug\netcoreapp3.1\EjemplosVarios.AssemblyInfoInputs.cache
+C:\Users\JJBER\source\repos\EjemplosVarios\EjemplosVarios\obj\Debug\netcoreapp3.1\EjemplosVarios.AssemblyInfo.vb
+C:\Users\JJBER\source\repos\EjemplosVarios\EjemplosVarios\obj\Debug\netcoreapp3.1\EjemplosVarios.dll
+C:\Users\JJBER\source\repos\EjemplosVarios\EjemplosVarios\obj\Debug\netcoreapp3.1\EjemplosVarios.pdb
+C:\Users\JJBER\source\repos\EjemplosVarios\EjemplosVarios\obj\Debug\netcoreapp3.1\EjemplosVarios.genruntimeconfig.cache
+C:\Users\JJBER\source\repos\EjemplosVarios\EjemplosVarios\obj\Debug\netcoreapp3.1\EjemplosVarios.vbprojAssemblyReference.cache

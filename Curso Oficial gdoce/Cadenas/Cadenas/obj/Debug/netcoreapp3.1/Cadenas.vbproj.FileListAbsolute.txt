@@ -1,0 +1,12 @@
+C:\Users\JJBER\source\repos\Cadenas\Cadenas\bin\Debug\netcoreapp3.1\Cadenas.exe
+C:\Users\JJBER\source\repos\Cadenas\Cadenas\bin\Debug\netcoreapp3.1\Cadenas.deps.json
+C:\Users\JJBER\source\repos\Cadenas\Cadenas\bin\Debug\netcoreapp3.1\Cadenas.runtimeconfig.json
+C:\Users\JJBER\source\repos\Cadenas\Cadenas\bin\Debug\netcoreapp3.1\Cadenas.runtimeconfig.dev.json
+C:\Users\JJBER\source\repos\Cadenas\Cadenas\bin\Debug\netcoreapp3.1\Cadenas.dll
+C:\Users\JJBER\source\repos\Cadenas\Cadenas\bin\Debug\netcoreapp3.1\Cadenas.pdb
+C:\Users\JJBER\source\repos\Cadenas\Cadenas\obj\Debug\netcoreapp3.1\Cadenas.vbproj.CoreCompileInputs.cache
+C:\Users\JJBER\source\repos\Cadenas\Cadenas\obj\Debug\netcoreapp3.1\Cadenas.AssemblyInfoInputs.cache
+C:\Users\JJBER\source\repos\Cadenas\Cadenas\obj\Debug\netcoreapp3.1\Cadenas.AssemblyInfo.vb
+C:\Users\JJBER\source\repos\Cadenas\Cadenas\obj\Debug\netcoreapp3.1\Cadenas.dll
+C:\Users\JJBER\source\repos\Cadenas\Cadenas\obj\Debug\netcoreapp3.1\Cadenas.pdb
+C:\Users\JJBER\source\repos\Cadenas\Cadenas\obj\Debug\netcoreapp3.1\Cadenas.genruntimeconfig.cache

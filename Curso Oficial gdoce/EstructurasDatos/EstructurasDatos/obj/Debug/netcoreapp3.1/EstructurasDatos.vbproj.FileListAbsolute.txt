@@ -1,0 +1,12 @@
+C:\Users\JJBER\source\repos\EstructurasDatos\EstructurasDatos\obj\Debug\netcoreapp3.1\EstructurasDatos.vbproj.CoreCompileInputs.cache
+C:\Users\JJBER\source\repos\EstructurasDatos\EstructurasDatos\obj\Debug\netcoreapp3.1\EstructurasDatos.AssemblyInfoInputs.cache
+C:\Users\JJBER\source\repos\EstructurasDatos\EstructurasDatos\obj\Debug\netcoreapp3.1\EstructurasDatos.AssemblyInfo.vb
+C:\Users\JJBER\source\repos\EstructurasDatos\EstructurasDatos\bin\Debug\netcoreapp3.1\EstructurasDatos.exe
+C:\Users\JJBER\source\repos\EstructurasDatos\EstructurasDatos\bin\Debug\netcoreapp3.1\EstructurasDatos.deps.json
+C:\Users\JJBER\source\repos\EstructurasDatos\EstructurasDatos\bin\Debug\netcoreapp3.1\EstructurasDatos.runtimeconfig.json
+C:\Users\JJBER\source\repos\EstructurasDatos\EstructurasDatos\bin\Debug\netcoreapp3.1\EstructurasDatos.runtimeconfig.dev.json
+C:\Users\JJBER\source\repos\EstructurasDatos\EstructurasDatos\bin\Debug\netcoreapp3.1\EstructurasDatos.dll
+C:\Users\JJBER\source\repos\EstructurasDatos\EstructurasDatos\bin\Debug\netcoreapp3.1\EstructurasDatos.pdb
+C:\Users\JJBER\source\repos\EstructurasDatos\EstructurasDatos\obj\Debug\netcoreapp3.1\EstructurasDatos.dll
+C:\Users\JJBER\source\repos\EstructurasDatos\EstructurasDatos\obj\Debug\netcoreapp3.1\EstructurasDatos.pdb
+C:\Users\JJBER\source\repos\EstructurasDatos\EstructurasDatos\obj\Debug\netcoreapp3.1\EstructurasDatos.genruntimeconfig.cache

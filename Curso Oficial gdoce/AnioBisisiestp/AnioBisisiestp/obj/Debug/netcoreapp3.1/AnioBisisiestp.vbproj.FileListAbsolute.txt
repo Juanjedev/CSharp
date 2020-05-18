@@ -1,0 +1,12 @@
+C:\Users\JJBER\source\repos\AnioBisisiestp\AnioBisisiestp\bin\Debug\netcoreapp3.1\AnioBisisiestp.exe
+C:\Users\JJBER\source\repos\AnioBisisiestp\AnioBisisiestp\bin\Debug\netcoreapp3.1\AnioBisisiestp.deps.json
+C:\Users\JJBER\source\repos\AnioBisisiestp\AnioBisisiestp\bin\Debug\netcoreapp3.1\AnioBisisiestp.runtimeconfig.json
+C:\Users\JJBER\source\repos\AnioBisisiestp\AnioBisisiestp\bin\Debug\netcoreapp3.1\AnioBisisiestp.runtimeconfig.dev.json
+C:\Users\JJBER\source\repos\AnioBisisiestp\AnioBisisiestp\bin\Debug\netcoreapp3.1\AnioBisisiestp.dll
+C:\Users\JJBER\source\repos\AnioBisisiestp\AnioBisisiestp\bin\Debug\netcoreapp3.1\AnioBisisiestp.pdb
+C:\Users\JJBER\source\repos\AnioBisisiestp\AnioBisisiestp\obj\Debug\netcoreapp3.1\AnioBisisiestp.vbproj.CoreCompileInputs.cache
+C:\Users\JJBER\source\repos\AnioBisisiestp\AnioBisisiestp\obj\Debug\netcoreapp3.1\AnioBisisiestp.AssemblyInfoInputs.cache
+C:\Users\JJBER\source\repos\AnioBisisiestp\AnioBisisiestp\obj\Debug\netcoreapp3.1\AnioBisisiestp.AssemblyInfo.vb
+C:\Users\JJBER\source\repos\AnioBisisiestp\AnioBisisiestp\obj\Debug\netcoreapp3.1\AnioBisisiestp.dll
+C:\Users\JJBER\source\repos\AnioBisisiestp\AnioBisisiestp\obj\Debug\netcoreapp3.1\AnioBisisiestp.pdb
+C:\Users\JJBER\source\repos\AnioBisisiestp\AnioBisisiestp\obj\Debug\netcoreapp3.1\AnioBisisiestp.genruntimeconfig.cache

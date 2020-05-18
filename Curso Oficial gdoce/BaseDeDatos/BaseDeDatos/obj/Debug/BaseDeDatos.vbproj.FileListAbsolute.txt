@@ -1,0 +1,12 @@
+C:\Users\JJBER\source\repos\BaseDeDatos\BaseDeDatos\bin\Debug\BaseDeDatos.exe.config
+C:\Users\JJBER\source\repos\BaseDeDatos\BaseDeDatos\bin\Debug\BaseDeDatos.exe
+C:\Users\JJBER\source\repos\BaseDeDatos\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+C:\Users\JJBER\source\repos\BaseDeDatos\BaseDeDatos\bin\Debug\BaseDeDatos.xml
+C:\Users\JJBER\source\repos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.vbprojAssemblyReference.cache
+C:\Users\JJBER\source\repos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.Form1.resources
+C:\Users\JJBER\source\repos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.Resources.resources
+C:\Users\JJBER\source\repos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.vbproj.GenerateResource.cache
+C:\Users\JJBER\source\repos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.vbproj.CoreCompileInputs.cache
+C:\Users\JJBER\source\repos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.exe
+C:\Users\JJBER\source\repos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.xml
+C:\Users\JJBER\source\repos\BaseDeDatos\BaseDeDatos\obj\Debug\BaseDeDatos.pdb

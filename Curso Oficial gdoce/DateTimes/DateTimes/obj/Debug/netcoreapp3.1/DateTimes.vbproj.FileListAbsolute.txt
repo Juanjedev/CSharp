@@ -1,0 +1,13 @@
+C:\Users\JJBER\source\repos\DateTimes\DateTimes\bin\Debug\netcoreapp3.1\DateTimes.exe
+C:\Users\JJBER\source\repos\DateTimes\DateTimes\bin\Debug\netcoreapp3.1\DateTimes.deps.json
+C:\Users\JJBER\source\repos\DateTimes\DateTimes\bin\Debug\netcoreapp3.1\DateTimes.runtimeconfig.json
+C:\Users\JJBER\source\repos\DateTimes\DateTimes\bin\Debug\netcoreapp3.1\DateTimes.runtimeconfig.dev.json
+C:\Users\JJBER\source\repos\DateTimes\DateTimes\bin\Debug\netcoreapp3.1\DateTimes.dll
+C:\Users\JJBER\source\repos\DateTimes\DateTimes\bin\Debug\netcoreapp3.1\DateTimes.pdb
+C:\Users\JJBER\source\repos\DateTimes\DateTimes\obj\Debug\netcoreapp3.1\DateTimes.vbprojAssemblyReference.cache
+C:\Users\JJBER\source\repos\DateTimes\DateTimes\obj\Debug\netcoreapp3.1\DateTimes.vbproj.CoreCompileInputs.cache
+C:\Users\JJBER\source\repos\DateTimes\DateTimes\obj\Debug\netcoreapp3.1\DateTimes.AssemblyInfoInputs.cache
+C:\Users\JJBER\source\repos\DateTimes\DateTimes\obj\Debug\netcoreapp3.1\DateTimes.AssemblyInfo.vb
+C:\Users\JJBER\source\repos\DateTimes\DateTimes\obj\Debug\netcoreapp3.1\DateTimes.dll
+C:\Users\JJBER\source\repos\DateTimes\DateTimes\obj\Debug\netcoreapp3.1\DateTimes.pdb
+C:\Users\JJBER\source\repos\DateTimes\DateTimes\obj\Debug\netcoreapp3.1\DateTimes.genruntimeconfig.cache

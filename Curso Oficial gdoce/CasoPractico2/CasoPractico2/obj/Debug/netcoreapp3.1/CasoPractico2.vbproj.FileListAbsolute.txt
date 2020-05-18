@@ -1,0 +1,13 @@
+C:\Users\JJBER\source\repos\CasoPractico2\CasoPractico2\obj\Debug\netcoreapp3.1\CasoPractico2.vbprojAssemblyReference.cache
+C:\Users\JJBER\source\repos\CasoPractico2\CasoPractico2\obj\Debug\netcoreapp3.1\CasoPractico2.vbproj.CoreCompileInputs.cache
+C:\Users\JJBER\source\repos\CasoPractico2\CasoPractico2\obj\Debug\netcoreapp3.1\CasoPractico2.AssemblyInfoInputs.cache
+C:\Users\JJBER\source\repos\CasoPractico2\CasoPractico2\obj\Debug\netcoreapp3.1\CasoPractico2.AssemblyInfo.vb
+C:\Users\JJBER\source\repos\CasoPractico2\CasoPractico2\bin\Debug\netcoreapp3.1\CasoPractico2.exe
+C:\Users\JJBER\source\repos\CasoPractico2\CasoPractico2\bin\Debug\netcoreapp3.1\CasoPractico2.deps.json
+C:\Users\JJBER\source\repos\CasoPractico2\CasoPractico2\bin\Debug\netcoreapp3.1\CasoPractico2.runtimeconfig.json
+C:\Users\JJBER\source\repos\CasoPractico2\CasoPractico2\bin\Debug\netcoreapp3.1\CasoPractico2.runtimeconfig.dev.json
+C:\Users\JJBER\source\repos\CasoPractico2\CasoPractico2\bin\Debug\netcoreapp3.1\CasoPractico2.dll
+C:\Users\JJBER\source\repos\CasoPractico2\CasoPractico2\bin\Debug\netcoreapp3.1\CasoPractico2.pdb
+C:\Users\JJBER\source\repos\CasoPractico2\CasoPractico2\obj\Debug\netcoreapp3.1\CasoPractico2.dll
+C:\Users\JJBER\source\repos\CasoPractico2\CasoPractico2\obj\Debug\netcoreapp3.1\CasoPractico2.pdb
+C:\Users\JJBER\source\repos\CasoPractico2\CasoPractico2\obj\Debug\netcoreapp3.1\CasoPractico2.genruntimeconfig.cache

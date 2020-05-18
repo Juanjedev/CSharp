@@ -1,0 +1,13 @@
+C:\Users\JJBER\source\repos\OperacionesMatematicas\OperacionesMatematicas\bin\Debug\netcoreapp3.1\OperacionesMatematicas.exe
+C:\Users\JJBER\source\repos\OperacionesMatematicas\OperacionesMatematicas\bin\Debug\netcoreapp3.1\OperacionesMatematicas.deps.json
+C:\Users\JJBER\source\repos\OperacionesMatematicas\OperacionesMatematicas\bin\Debug\netcoreapp3.1\OperacionesMatematicas.runtimeconfig.json
+C:\Users\JJBER\source\repos\OperacionesMatematicas\OperacionesMatematicas\bin\Debug\netcoreapp3.1\OperacionesMatematicas.runtimeconfig.dev.json
+C:\Users\JJBER\source\repos\OperacionesMatematicas\OperacionesMatematicas\bin\Debug\netcoreapp3.1\OperacionesMatematicas.dll
+C:\Users\JJBER\source\repos\OperacionesMatematicas\OperacionesMatematicas\bin\Debug\netcoreapp3.1\OperacionesMatematicas.pdb
+C:\Users\JJBER\source\repos\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\netcoreapp3.1\OperacionesMatematicas.vbprojAssemblyReference.cache
+C:\Users\JJBER\source\repos\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\netcoreapp3.1\OperacionesMatematicas.vbproj.CoreCompileInputs.cache
+C:\Users\JJBER\source\repos\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\netcoreapp3.1\OperacionesMatematicas.AssemblyInfoInputs.cache
+C:\Users\JJBER\source\repos\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\netcoreapp3.1\OperacionesMatematicas.AssemblyInfo.vb
+C:\Users\JJBER\source\repos\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\netcoreapp3.1\OperacionesMatematicas.dll
+C:\Users\JJBER\source\repos\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\netcoreapp3.1\OperacionesMatematicas.pdb
+C:\Users\JJBER\source\repos\OperacionesMatematicas\OperacionesMatematicas\obj\Debug\netcoreapp3.1\OperacionesMatematicas.genruntimeconfig.cache

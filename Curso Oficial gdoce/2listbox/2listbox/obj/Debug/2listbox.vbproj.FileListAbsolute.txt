@@ -1,0 +1,12 @@
+C:\Users\JJBER\source\repos\2listbox\2listbox\bin\Debug\2listbox.exe.config
+C:\Users\JJBER\source\repos\2listbox\2listbox\bin\Debug\2listbox.exe
+C:\Users\JJBER\source\repos\2listbox\2listbox\bin\Debug\2listbox.pdb
+C:\Users\JJBER\source\repos\2listbox\2listbox\bin\Debug\2listbox.xml
+C:\Users\JJBER\source\repos\2listbox\2listbox\obj\Debug\2listbox.vbprojAssemblyReference.cache
+C:\Users\JJBER\source\repos\2listbox\2listbox\obj\Debug\_2listbox.Form1.resources
+C:\Users\JJBER\source\repos\2listbox\2listbox\obj\Debug\_2listbox.Resources.resources
+C:\Users\JJBER\source\repos\2listbox\2listbox\obj\Debug\2listbox.vbproj.GenerateResource.cache
+C:\Users\JJBER\source\repos\2listbox\2listbox\obj\Debug\2listbox.vbproj.CoreCompileInputs.cache
+C:\Users\JJBER\source\repos\2listbox\2listbox\obj\Debug\2listbox.exe
+C:\Users\JJBER\source\repos\2listbox\2listbox\obj\Debug\2listbox.xml
+C:\Users\JJBER\source\repos\2listbox\2listbox\obj\Debug\2listbox.pdb

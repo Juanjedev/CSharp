@@ -1,0 +1,12 @@
+C:\Users\JJBER\source\repos\EntradaSalidaConsola\EntradaSalidaConsola\bin\Debug\netcoreapp3.1\EntradaSalidaConsola.exe
+C:\Users\JJBER\source\repos\EntradaSalidaConsola\EntradaSalidaConsola\bin\Debug\netcoreapp3.1\EntradaSalidaConsola.deps.json
+C:\Users\JJBER\source\repos\EntradaSalidaConsola\EntradaSalidaConsola\bin\Debug\netcoreapp3.1\EntradaSalidaConsola.runtimeconfig.json
+C:\Users\JJBER\source\repos\EntradaSalidaConsola\EntradaSalidaConsola\bin\Debug\netcoreapp3.1\EntradaSalidaConsola.runtimeconfig.dev.json
+C:\Users\JJBER\source\repos\EntradaSalidaConsola\EntradaSalidaConsola\bin\Debug\netcoreapp3.1\EntradaSalidaConsola.dll
+C:\Users\JJBER\source\repos\EntradaSalidaConsola\EntradaSalidaConsola\bin\Debug\netcoreapp3.1\EntradaSalidaConsola.pdb
+C:\Users\JJBER\source\repos\EntradaSalidaConsola\EntradaSalidaConsola\obj\Debug\netcoreapp3.1\EntradaSalidaConsola.vbproj.CoreCompileInputs.cache
+C:\Users\JJBER\source\repos\EntradaSalidaConsola\EntradaSalidaConsola\obj\Debug\netcoreapp3.1\EntradaSalidaConsola.AssemblyInfoInputs.cache
+C:\Users\JJBER\source\repos\EntradaSalidaConsola\EntradaSalidaConsola\obj\Debug\netcoreapp3.1\EntradaSalidaConsola.AssemblyInfo.vb
+C:\Users\JJBER\source\repos\EntradaSalidaConsola\EntradaSalidaConsola\obj\Debug\netcoreapp3.1\EntradaSalidaConsola.dll
+C:\Users\JJBER\source\repos\EntradaSalidaConsola\EntradaSalidaConsola\obj\Debug\netcoreapp3.1\EntradaSalidaConsola.pdb
+C:\Users\JJBER\source\repos\EntradaSalidaConsola\EntradaSalidaConsola\obj\Debug\netcoreapp3.1\EntradaSalidaConsola.genruntimeconfig.cache
